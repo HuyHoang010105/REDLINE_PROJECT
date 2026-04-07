@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bien-so-xe']
+
+roboflow:
+  workspace: ngos-workspace-bs9z4
+  project: bien-so-xe-y9iuv-zkqcr
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/ngos-workspace-bs9z4/bien-so-xe-y9iuv-zkqcr/1

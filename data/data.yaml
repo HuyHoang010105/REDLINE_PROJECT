@@ -1,0 +1,22 @@
+names:
+- '1'
+- '10'
+- '11'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- red traffic light
+nc: 12
+roboflow:
+  license: Private
+  project: traffic-lights-va8yu-eylta
+  url: https://app.roboflow.com/ngos-workspace-bs9z4/traffic-lights-va8yu-eylta/1
+  version: 1
+  workspace: ngos-workspace-bs9z4
+train: /content/drive/MyDrive/red_light_project/data/train/images
+val: /content/drive/MyDrive/red_light_project/data/train/images
